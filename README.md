@@ -1,4 +1,4 @@
-# flutter_application_1
+# Assignment2-MaharaTec
 
 A new Flutter project.
 
